@@ -10,10 +10,12 @@ body {
 
 nav{
   background-color: rgb(249, 194, 252);
+  text-align:center;
 }
 
 aside{
   background-color:#F6A4FB ;
+  text-align:center;
 }
 
 nav, aside{
@@ -61,10 +63,19 @@ aside h3{
 }
 #intro{
   text-shadow:2px 2px 4px brown;
+  text-decoration: underline;
 }
 #cool{
   text-shadow:2px 2px 4px maroon;
+  text-decoration: underline;
 }
 #summary{
   text-shadow:2px 2px 4px sienna;
+  text-decoration: underline;
+}
+footer li{
+   border: 1px solid white;
+  margin: 2px 5px 7px;
+  padding: 1%
+  ;
 }
